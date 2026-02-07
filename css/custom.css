@@ -1,0 +1,13 @@
+:root {
+  --bs-primary: #6f42c1;   
+  --bs-danger: #ff6b6b;    
+  --bs-success: #51cf66;   
+  --bs-dark: #212529;      
+}
+.navbar {
+  background: linear-gradient(45deg, #6f42c1, #845ef7);
+}
+.btn-primary {
+  border-radius: 20px;
+  font-weight: bold;
+}
